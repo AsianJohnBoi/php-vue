@@ -9,7 +9,7 @@ Scans image files inside of a given folder '/images' and displays details  (File
 There are two folders:
 
 - Development - For developing Vue framework.
-- Production - Built for immediate deployment on a server.
+- docs (Production) - Built for immediate deployment on a server.
 
 
 
